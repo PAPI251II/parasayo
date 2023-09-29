@@ -1,0 +1,15 @@
+body {
+    font-size: 15pt;
+}
+
+btn {
+  width:250px;
+  height: 100px;
+  color: black;
+  background-color: red;
+  
+  position: absolute;
+  
+  top: 100px;
+  left: 200px;
+}
